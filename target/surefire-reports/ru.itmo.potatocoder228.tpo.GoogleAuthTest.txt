@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.itmo.potatocoder228.tpo.GoogleAuthTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.64 s - in ru.itmo.potatocoder228.tpo.GoogleAuthTest
